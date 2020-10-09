@@ -1,0 +1,1 @@
+<h1>your passport number{{$user->number}}</h1>
